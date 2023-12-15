@@ -105,6 +105,10 @@ img {
 .logo__bold {
     font-weight:700;
 }
+.parrafo__bold{
+    font-weight: 700;
+    color: var(--primario);
+}
 @media (min-width: 768px) {
     .navegacion {
         display: flex;
