@@ -150,7 +150,9 @@ img {
     margin-bottom: 2rem;
     border: none;
 }
-
+.parrafo__producto{
+    font-weight: bold;
+}
 @media (min-width: 768px) {
     .boton {
         display: inline-block;
